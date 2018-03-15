@@ -1,3 +1,6 @@
 '''
-This comment is just to start the script
+Comment to start the script
 '''
+
+def print_love():
+    print("LOVE")
