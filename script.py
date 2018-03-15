@@ -10,3 +10,4 @@ def print_peace():
 
 if __name__ == "__main__":
     print("__main__")
+    print_love()
